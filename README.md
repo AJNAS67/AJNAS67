@@ -21,9 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/ajnaskp7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajnaskp7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajnas-muhammed-266066170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajnas-muhammed-266066170" height="30" width="40" /></a>
-<a href="https://fb.com/id=100006579405320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="id=100006579405320" height="30" width="40" /></a>
 <a href="https://instagram.com/ajnaskpmuhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajnaskpmuhammed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uczntj7qcxvomamfukcuol4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczntj7qcxvomamfukcuol4a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

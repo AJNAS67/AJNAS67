@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajnas67" alt="ajnas67" /></a> </p>
 
-- 🔭 I’m currently working on **MetaHyper-cart**
+- 🔭 I’m currently working on **EasyLearn**
 
 - 🌱 I’m currently learning **Fullstack developement**
 
